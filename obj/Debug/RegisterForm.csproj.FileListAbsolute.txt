@@ -1,0 +1,10 @@
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csprojAssemblyReference.cache
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Register.resources
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\barbosa\source\repos\SeupetTela\RegisterForm\RegisterForm\obj\Debug\RegisterForm.pdb
